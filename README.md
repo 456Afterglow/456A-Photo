@@ -8,6 +8,6 @@ HOW TO DOWNLOAD
 
 Still uploading
 
-this document will create after finish upload
+this document will be created after finish upload
 
 try to figure it out yourself or wait
