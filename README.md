@@ -4,6 +4,7 @@ HOW TO DOWNLOAD
 
 1.***For Windows user ONLY***
    Go to https://www.7-zip.org/download.html. Download 7-zip for your computer OS version.
+   
    How to check your computer OS version: https://mashable.com/article/how-to-find-operating-system
 
 2. Go to ***Release***.
