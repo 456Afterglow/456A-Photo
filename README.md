@@ -12,9 +12,11 @@ HOW TO DOWNLOAD
 3. Click on the photo/video folder you want to download.
 
 4. After the folder is download to your computer,
+   
    a)Windows User(Win 10/11):
      Right click on the file, then select 7-Zip, and click on Extract Here.
      ![image](https://github.com/456Afterglow/456A-Photo/assets/123099323/9b512816-8fc6-4fcf-976d-19efa0b1db3a)
+   
    b)Mac User(Apple):
      Right click on the file, then select Open With, and click on Archive Utility
      ![image](https://github.com/456Afterglow/456A-Photo/assets/123099323/d3db61b0-7e35-4cce-9399-21ac5f9a3987)
