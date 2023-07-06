@@ -5,7 +5,7 @@ HOW TO DOWNLOAD
 1.***For Windows user ONLY***
    Go to https://www.7-zip.org/download.html. Download 7-zip for your computer OS version.
    
-     How to check your computer OS version: https://mashable.com/article/how-to-find-operating-system
+    How to check your computer OS version: https://mashable.com/article/how-to-find-operating-system
 
 2. Go to ***Release***.
    ![Download location](https://github.com/456Afterglow/456A-Photo/assets/123099323/4f41f354-ac4e-4483-b79b-cec33c9df8c3)
